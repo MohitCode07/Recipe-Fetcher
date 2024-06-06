@@ -1,6 +1,7 @@
 #Recipe Fetcher WebApp
 
-![Random Unsplash Image](https://unsplash.com/photos/a-table-topped-with-lots-of-plates-of-food-hatqfX3b9Vo)
+![top-view-eid-al-fitr-celebration-with-delicious-food (1)](https://github.com/MohitCode07/Recipe-Fetcher/assets/171263215/3d174de5-0d85-480f-9380-d27751e53e9a)
+
 
 
 Recipe Fetcher is a simple web application built with React.js, JavaScript, and CSS that allows users to search for and view recipes for various dishes. Recipes are fetched from the Spoonacular API.
