@@ -14,4 +14,3 @@ Features
 
 .API Integration: Fetches recipes from the Spoonacular API(https://spoonacular.com/food-api)
 
-LIVE LINK ===>  https://6661ecdcb361152e983ae8f5--wonderful-dolphin-962385.netlify.app
